@@ -57,8 +57,8 @@ class signin extends StatelessWidget {
                                     boxShadow: [
                                       BoxShadow(
                                           blurRadius: 15.0,
-                                          color:
-                                              Color.fromARGB(255, 110, 5, 129)),
+                                          color: Color.fromARGB(
+                                              255, 154, 67, 169)),
                                     ],
                                     color: Colors.white54,
                                     border: Border.all(color: Colors.white),
